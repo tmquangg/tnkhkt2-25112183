@@ -37,7 +37,7 @@
 - Hiển thị dữ liệu trên Node-RED
 - Theo dõi và kiểm tra dữ liệu bằng MQTT Explorer.
 
-## 8. Kết luận
+## 3. Kết luận
 
 Hiểu cách ESP32 kết nối với Wi-Fi, cách sử dụng MQTT để trao đổi dữ liệu.
 
