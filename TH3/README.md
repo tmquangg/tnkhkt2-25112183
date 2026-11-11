@@ -77,7 +77,7 @@ Transmitter gửi một cấu trúc dữ liệu (struct) chứa số đếm và 
 | Thiết bị | MAC Address |
 |---|---|
 | Receiver | `70:4B:CA:03:49:54` |
-| Transmitter | `CẬP NHẬT MAC THỰC TẾ` |
+| Transmitter | `C8:8A:7B:8C:41:44` |
 
 ### Kết quả
 
